@@ -1,4 +1,4 @@
-# ExpenseVault 💰
+# ExpenseVault 
 
 A modern, full-stack expense management platform built with React, NestJS, Prisma, and MySQL.
 
@@ -6,9 +6,9 @@ ExpenseVault helps users track expenses, manage categories, analyze spending pat
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication & Security
+### Authentication & Security
 
 * JWT-based authentication
 * User registration and login
@@ -18,7 +18,7 @@ ExpenseVault helps users track expenses, manage categories, analyze spending pat
 * Password change functionality
 * Input validation using DTOs and Zod schemas
 
-### 💳 Expense Management
+###  Expense Management
 
 * Create, update, and delete expenses
 * Categorize expenses
@@ -37,7 +37,7 @@ ExpenseVault helps users track expenses, manage categories, analyze spending pat
 * Recent transaction activity
 * Spending trend analysis
 
-### 🏷️ Categories
+### Categories
 
 * Custom category creation
 * Category color management
@@ -60,7 +60,7 @@ ExpenseVault helps users track expenses, manage categories, analyze spending pat
 * Account settings
 * Personalized dashboard experience
 
-### 🎨 User Experience
+###  User Experience
 
 * Modern responsive interface
 * Dark mode support
